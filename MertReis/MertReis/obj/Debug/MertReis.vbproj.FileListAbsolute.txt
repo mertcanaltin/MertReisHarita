@@ -1,0 +1,15 @@
+C:\VS\repos\MertReis\MertReis\obj\Debug\MertReis.vbprojAssemblyReference.cache
+C:\VS\repos\MertReis\MertReis\obj\Debug\MertReis.Resources.resources
+C:\VS\repos\MertReis\MertReis\obj\Debug\MertReis.vbproj.GenerateResource.cache
+C:\VS\repos\MertReis\MertReis\obj\Debug\MertReis.vbproj.CoreCompileInputs.cache
+C:\VS\repos\MertReis\MertReis\bin\Debug\MertReis.exe.config
+C:\VS\repos\MertReis\MertReis\bin\Debug\MertReis.exe
+C:\VS\repos\MertReis\MertReis\bin\Debug\MertReis.pdb
+C:\VS\repos\MertReis\MertReis\bin\Debug\MertReis.xml
+C:\VS\repos\MertReis\MertReis\bin\Debug\GMap.NET.Core.dll
+C:\VS\repos\MertReis\MertReis\bin\Debug\GMap.NET.WindowsForms.dll
+C:\VS\repos\MertReis\MertReis\obj\Debug\MertReis.haritaForm.resources
+C:\VS\repos\MertReis\MertReis\obj\Debug\MertReis.vbproj.CopyComplete
+C:\VS\repos\MertReis\MertReis\obj\Debug\MertReis.exe
+C:\VS\repos\MertReis\MertReis\obj\Debug\MertReis.xml
+C:\VS\repos\MertReis\MertReis\obj\Debug\MertReis.pdb
